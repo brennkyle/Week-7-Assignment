@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+</head>
+<title>Videos</title>
+<head>
+    <body>
+        <h1>V3 Dance</h1>
+        <div>
+            <a href="v3home.html">Home</a>
+            <a href="videos.html">Videos</a>
+            <a href="store.html">Store</a>
+        </div> <br>
+<p>See A Victory / What A Beautiful Name - Jonathan Traylor | V3 </p>
+<img src="https://i.ytimg.com/vi/mOk3nL3DCic/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSXUoJQvF6quY8MX7e4cfdd9UovA" /> <br>
+<a href="https://www.youtube.com/watch?v=mOk3nL3DCic&ab_channel=TheV3DANCE">Check it out! </a>
+
+
+    </body>
+</html>
