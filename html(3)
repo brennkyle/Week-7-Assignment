@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Store</title>
+    </head>
+        <body>
+            <h1>V3 Dance</h1>
+            <div>
+                <a href="v3home.html">Home</a>
+                <a href="videos.html">Videos</a>
+                <a href="store.html">Store</a>
+            </div> <br>
+            <p>V3 Toilet Paper</p>
+<img src="https://images.squarespace-cdn.com/content/v1/5e4633dc2ce5045e38d2d037/1609234953825-XM3NHTLFECKEQP1K2TVK/SSM01487.jpg?format=300w" />
+<p>$99.99 <b><i>Only 2 left in stock!</i></b></p>
+<button>Purchase</button>
+        </body>
+</html>
